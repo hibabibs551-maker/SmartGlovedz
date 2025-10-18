@@ -1,17 +1,15 @@
-# Smart Glove for Rehabilitation
-Projet développé à Skikda (Algérie)  
-Ingénierie mécatronique  
+# Smart Glove Translator 🤖🧤
 
-## Description
-Le gant intelligent mesure la flexion des doigts grâce à 5 capteurs et un module MPU6050.  
-Les données sont traitées par un ESP32 et affichées sur un écran OLED.  
+This project is a smart glove that translates sign language into **speech and text** using an ESP32 microcontroller, flex sensors, an MPU6050, an OLED screen, and a DFPlayer Mini.
 
-## Objectif
-Améliorer la rééducation motrice et permettre un suivi précis des mouvements du patient.
+## Features
+- Converts hand gestures to voice output and text display.
+- Helps bridge communication between deaf and hearing people.
 
-## Vidéo de démonstration
- [https://sites.google.com/view/gestau/accueil<img width="740" height="81" alt="image" src="https://github.com/user-attachments/assets/4b48dadc-b3e1-481e-8437-2b7f847d3fd8" /]
-
-
-## Schémas et code
-Tout le matériel et le code source sont disponibles ci-dessus.
+## Components
+- ESP32-CAM
+- 5 Flex Sensors
+- MPU6050
+- OLED Display 0.96"
+- DFPlayer Mini
+- Battery + Step-up Converter
