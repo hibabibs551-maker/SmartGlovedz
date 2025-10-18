@@ -13,3 +13,9 @@ This project is a smart glove that translates sign language into **speech and te
 - OLED Display 0.96"
 - DFPlayer Mini
 - Battery + Step-up Converter
+---
+
+## 📄 Project Report
+
+You can download the full project report (PDF) from the link below:
+smart_glove.pdf
